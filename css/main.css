@@ -40,6 +40,7 @@ section { display: flex; }
 .text-primary { font-size: 16px; color: #364147; }
 
 .header-nav { border-bottom: 1px solid #a0a0a0; }
+
 .brand {
   width: 170px;
   height: 85px;
@@ -47,6 +48,7 @@ section { display: flex; }
   margin-right: 60px;
 }
 .logo { max-width: 100%; height: auto; }
+
 .search-box {
   width: 330px;
   height: 30px;
@@ -61,6 +63,7 @@ section { display: flex; }
   border: 0;
   padding: 0;
 }
+
 .nav-list {
   padding-left: 0;
   width: 575px;
@@ -72,6 +75,7 @@ section { display: flex; }
   font-weight: 700;
   letter-spacing: 0.2px;
 }
+
 .profile { margin-left: auto; }
 .account {
   text-align: right;
@@ -80,6 +84,7 @@ section { display: flex; }
   font-size: 18px;
 }
 .account a { font-size: 14px; }
+
 .profile-pic { width: 60px; height: 60px; }
 .profile-pic img {
   border-radius: 100px;
